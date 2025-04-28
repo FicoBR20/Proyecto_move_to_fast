@@ -1,3 +1,12 @@
+-- ################################
+-- Abril 28 de 2025
+-- Asignatura:Base de Datos
+-- federico.barbetti@correounivalle.edu.co
+-- Codigo: 2181247
+-- Proyecto: Move to fast
+-- ################################
+
+
 INSERT INTO cliente (nombre_c, apellido1_c) VALUES
 ('Juan', 'Perez'),
 ('Ana', 'Gomez'),

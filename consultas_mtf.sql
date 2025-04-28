@@ -1,3 +1,11 @@
+-- ################################
+-- Abril 28 de 2025
+-- Asignatura:Base de Datos
+-- federico.barbetti@correounivalle.edu.co
+-- Codigo: 2181247
+-- Proyecto: Move to fast
+-- ################################
+
 /**LISTADO DE CONSULTAS A EJECUTAR
 
 /* CONSULTA 1 Obtener los vehículos disponibles en una ciudad específica.

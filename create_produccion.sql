@@ -1,3 +1,12 @@
+-- ################################
+-- Abril 28 de 2025
+-- Asignatura:Base de Datos
+-- federico.barbetti@correounivalle.edu.co
+-- Codigo: 2181247
+-- Proyecto: Move to fast
+-- ################################
+
+
 CREATE TABLE cliente(
     id_cliente SERIAL PRIMARY KEY NOT NULL,
     nombre_c    VARCHAR(45) NOT NULL,
